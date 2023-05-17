@@ -139,6 +139,9 @@ body {
   margin-bottom: 0;
       /* margin-top: 20px; */
 }
+.liststyle-none{
+  list-style: none;
+}
 
 .work-position {
   font-style: normal;
